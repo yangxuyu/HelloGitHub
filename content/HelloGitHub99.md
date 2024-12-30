@@ -10,7 +10,7 @@
 
 ![](https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/catalog.png)
 
-$\star$$\star$$\star$$\star$$\star$
+$\star$ $\star$ $\star$ $\star$  $\star$
 
 ## 内容
 > **以下为内容**｜ 不定期更新
