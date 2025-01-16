@@ -1,5 +1,3 @@
-
-
 # 常用配置
 > just for fun
 
@@ -16,41 +14,81 @@
 1、[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)：如果你需要频繁向他人共享屏幕，还是老实用微软雅黑、宋体等常用字体。因为新字体会有冲击不适感，需要一段时间才能适应。
 
 
-
-https://github.com/ohmyzsh/ohmyzsh
-###    终端
+###  终端
 2、[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)：管理你的 zsh 配置
 
 
 
-###  项目    
-3、[ladybird](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LadybirdBrowser/ladybird)：真正独立的开源浏览器。该项目作者想要从头构建一个真正独立的 Web 浏览器，所以他从自己写的 SerenityOS 操作系统中分离出浏览器引擎部分，计划基于此做一个全新、跨平台的开源浏览器。目前项目处于早期阶段，尚未发布可供下载的安装包。
+###  Visual Studio Code 
 
- 
 
+[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)：
+
+[Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+
+
+[Remote-SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+
+[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+
+[Code-Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+
+[Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)
+
+
+[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+
+[Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
+
+
+[Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+
+[Better Align](https://marketplace.visualstudio.com/items?itemName=Chouzz.vscode-better-align)
+
+[WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
 
 ### 资源集散地
-4、 [awesome](https://github.com/sindresorhus/awesome)
-
-5、 [awesome-go](https://github.com/avelino/awesome-go)：
-
-6、 [awesome-c](https://github.com/oz123/awesome-c)
 
 
-<!--
- -->
+10、[Extensions for Visual Studio Code](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories&sortBy=Installs)
+
+
 
    <!-- 
    
    -->
 
 ### 开源书籍
-41、<!-- 
-    [introduction-to-bash-scripting](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bobbyiliev/introduction-to-bash-scripting)：《Bash 脚本入门指南》。这是一本教你如何编写出色的 Bash 脚本的开源书籍。
-    -->
+
+[What every programmer should know about memory](https://lwn.net/Articles/259710/)
 
 
 
+[What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
+
+[Memory part 2: CPU caches](https://lwn.net/Articles/252125/)
+
+[Memory part 3: Virtual Memory](https://lwn.net/Articles/253361/)
+
+[Memory part 4: NUMA support](https://lwn.net/Articles/254445/)
+
+[Memory part 5: What programmers can do](https://lwn.net/Articles/255364/)
+
+[Memory part 6: More things programmers can do](https://lwn.net/Articles/256433/)
+
+[Memory part 7: Memory performance tools](https://lwn.net/Articles/257209/)
+
+[Memory part 8: Future technologies](https://lwn.net/Articles/258154/)
+
+[Memory part 9: Appendices and bibliography](https://lwn.net/Articles/258188/)
+
+
+
+
+
+[Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing Abstract](https://www.rfc-editor.org/rfc/rfc7230.html)
 
 
 
@@ -67,3 +105,4 @@ https://github.com/ohmyzsh/ohmyzsh
 </p>
 
 ---
+
