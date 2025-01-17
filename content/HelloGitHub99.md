@@ -1,8 +1,7 @@
-# 《
+
+# 常用配置
 > just for fun
-<p align="center">
-    <img src='https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/cover.jpg' style="max-width:100%;"></img>
-</p>
+
 
 ## 目录
 
@@ -12,35 +11,85 @@
 ## 内容
 > **以下为内容**｜ 不定期更新
 
-### $\star$ $\star$ $\star$ $\star$ $\star$ 项目    力荐阅读
-1、[HandBrake](https://hellogithub.com/periodical/statistics/click?target=https://github.com/HandBrake/HandBrake)：免费的开源视频转码工具。这是一款功能强大、社区驱动的开源视频转码工具，它支持将各种不同格式的视频文件，转换为 MP4 和 MKV 等常见格式。
+###  字体    
+1、[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)：如果你需要频繁向他人共享屏幕，还是老实用微软雅黑、宋体等常用字体。因为新字体会有冲击不适感，需要一段时间才能适应。
 
 
-### $\star$ $\star$ $\star$ $\star$ 项目    推荐阅读
-2、[SwashbucklerDiary](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Yu-Core/SwashbucklerDiary)：记录生活点滴的侠客日记。这个项目的作者因为喜欢写日记，所以开发了这款离线优先的日记应用。它拥有简洁清爽的界面，用户可以选择记录日记时的天气、心情和位置。除了支持 Web 在线使用外，还提供了 Android、Windows、iOS 和 macOS 客户端。
+###  终端
+2、[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)：管理你的 zsh 配置
 
 
 
-### $\star$ $\star$ $\star$ $\star$ 项目    可不阅读
-4、[ladybird](https://hellogithub.com/periodical/statistics/click?target=https://github.com/LadybirdBrowser/ladybird)：真正独立的开源浏览器。该项目作者想要从头构建一个真正独立的 Web 浏览器，所以他从自己写的 SerenityOS 操作系统中分离出浏览器引擎部分，计划基于此做一个全新、跨平台的开源浏览器。目前项目处于早期阶段，尚未发布可供下载的安装包。
-
- 
+###  Visual Studio Code 
 
 
-### 其它
-35、<!-- -->
+[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)：
 
-[anx-reader](https://hellogithub.com/periodical/statistics/click?target=https://github.com/Anxcye/anx-reader)：免费的 Android 电子书阅读器。这是一款用 Flutter 编写的电子书阅读软件，它免费且没广告，支持 WebDAV 同步电子书、笔记和阅读进度，适用于 Android 手机和平板电脑。
+[Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 
-   <!-- -->
+
+[Remote-SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+
+[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+
+[Code-Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+
+[Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-zh-hans)
+
+
+[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
+
+[Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
+
+
+[Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+
+[Better Align](https://marketplace.visualstudio.com/items?itemName=Chouzz.vscode-better-align)
+
+[WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+
+### 资源集散地
+
+
+10、[Extensions for Visual Studio Code](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories&sortBy=Installs)
+
+
+
+   <!-- 
+   
+   -->
 
 ### 开源书籍
-41、<!-- 
-    [introduction-to-bash-scripting](https://hellogithub.com/periodical/statistics/click?target=https://github.com/bobbyiliev/introduction-to-bash-scripting)：《Bash 脚本入门指南》。这是一本教你如何编写出色的 Bash 脚本的开源书籍。
-    -->
+
+[What every programmer should know about memory](https://lwn.net/Articles/259710/)
 
 
 
+[What every programmer should know about memory, Part 1](https://lwn.net/Articles/250967/)
+
+[Memory part 2: CPU caches](https://lwn.net/Articles/252125/)
+
+[Memory part 3: Virtual Memory](https://lwn.net/Articles/253361/)
+
+[Memory part 4: NUMA support](https://lwn.net/Articles/254445/)
+
+[Memory part 5: What programmers can do](https://lwn.net/Articles/255364/)
+
+[Memory part 6: More things programmers can do](https://lwn.net/Articles/256433/)
+
+[Memory part 7: Memory performance tools](https://lwn.net/Articles/257209/)
+
+[Memory part 8: Future technologies](https://lwn.net/Articles/258154/)
+
+[Memory part 9: Appendices and bibliography](https://lwn.net/Articles/258188/)
+
+
+
+
+
+[Hypertext Transfer Protocol (HTTP/1.1): Message Syntax and Routing Abstract](https://www.rfc-editor.org/rfc/rfc7230.html)
 
 
 
@@ -57,7 +106,3 @@
 </p>
 
 ---
-
-
-
-
